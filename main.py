@@ -9,4 +9,3 @@ print("No")
 
 print("Yes")
 
-print("")
