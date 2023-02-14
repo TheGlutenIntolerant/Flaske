@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -22,3 +23,6 @@ print(hellosss)
 
 
 
+=======
+print("Hello")
+>>>>>>> db8b86b (Hello)
